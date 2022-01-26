@@ -8,7 +8,7 @@
 - Why you have to learn Python?
 - Algorithm definition
 - Installation & Command Line
-- Variable in Python
+- Variables in Python
 
 ## Week 2
 - Data Types
