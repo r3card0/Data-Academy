@@ -33,17 +33,17 @@ def choose(ingredient):
     print("Your order is: Eggs with " + ingredient)
 
 def run():
-    bacon = "bacon"
-    jam = "jam"
-    both = "bacon and jam"
+    bacon = "bacon 🍳 🥓"
+    jam = "jam 🍳🍖"
+    both = "bacon and jam 🍳🥓🍖"
 
     menu = int(input("""
-    We offer you eggs as a breakfast and you can add
+    We offer you eggs 🥚🍳 as a breakfast and you can add
     and extra ingredient
 
-    Bacon       (1)
-    Jam         (2)
-    Bacon & Jam (3)
+    Bacon 🥓            (1)
+    Jam   🍖            (2)
+    Bacon & Jam 🥓 🍖   (3)
 
     Please, choose an option!: """))
 
