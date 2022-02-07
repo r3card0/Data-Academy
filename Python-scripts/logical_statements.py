@@ -1,4 +1,4 @@
-print(""" This program evaluates several statements 
+print(""" This program evaluates some statements 
 using the logical operators: and, or and not
 Statements:
 """)
