@@ -21,4 +21,16 @@
 - Slicing Strings
 - Palindrome project
 
+## Week 3
+- Loops while and for
+- Data Structures: lists, tuples and dictionaries
+- How to create a Colab notebook
+- How to create a Deepnote project
+
+## Week 4
+- numpy
+- Pandas
+- Matplotlib
+- Statistics
+
 
